@@ -43,6 +43,6 @@ Task Manager is essential for administrators because it enables:
 *"Completed lab on Windows Task Manager, gaining hands-on experience in monitoring processes, services, and system performance while strengthening troubleshooting and system diagnostic skills."*
 
 ## 📂link of file 
-[click here]( 
+[click here]( https://github.com/NIMRAA3/Windows-Task-Manager-Lab/blob/main/Windows_Task_Manager_Lab_Report.pdf)
 
 
